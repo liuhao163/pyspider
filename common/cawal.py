@@ -1,1 +1,4 @@
-import  cawal
+import requests
+
+def fethByUrl(url):
+    return
